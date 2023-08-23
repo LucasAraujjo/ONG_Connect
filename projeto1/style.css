@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(to right, blue, purple);
+}
+
+header > h1 {
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Courier, monospace;
+}
+
+main{
+    background-color: antiquewhite;
+    margin: 0px 30px;
+}
+
+section{
+    padding: ;
+}
